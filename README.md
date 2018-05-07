@@ -6,3 +6,5 @@ and
 https://github.com/JarvisPrestidge/vscode-material-theme
 
 Workbench is full themed, with tweaked background and highlights adhering to the material palette.
+
+![screenshot](https://raw.githubusercontent.com/m-thorsen/vscode-material-mt/master/screenshot.png)
