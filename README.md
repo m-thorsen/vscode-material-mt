@@ -1,10 +1,7 @@
 ## Material MT
 
-Another material theme, inspired by  
-https://github.com/equinusocio/material-theme   
-and  
-https://github.com/JarvisPrestidge/vscode-material-theme
+Another material theme, inspired by https://github.com/equinusocio/material-theme and https://github.com/JarvisPrestidge/vscode-material-theme
 
-Workbench is full themed, with tweaked background and highlights adhering to the material palette.
+![screenshot](./screenshot.png)
 
-![screenshot](https://raw.githubusercontent.com/m-thorsen/vscode-material-mt/master/screenshot.png)
+Workbench is fully themed, with tweaked background and highlights adhering to the material palette.

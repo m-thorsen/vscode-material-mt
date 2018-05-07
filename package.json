@@ -1,14 +1,10 @@
 {
     "name": "vscode-material-mt",
     "displayName": "Material MT",
-    "description": "",
+    "description": "Another Material theme",
     "version": "0.1.0",
     "publisher": "m-thorsen",
     "license": "MIT",
-    "galleryBanner": {
-		"color": "#263238",
-		"theme": "dark"
-	},
     "engines": {
        "vscode": "^1.12.0"
     },
@@ -26,10 +22,6 @@
             }
         ]
     },
-    "bugs": {
-        "url": "https://github.com/m-thorsen/vscode-material-mt/issues"
-    },
-    "homepage": "https://github.com/m-thorsen/vscode-material-mt",
     "repository": {
         "type": "git",
         "url": "https://github.com/m-thorsen/vscode-material-mt"
