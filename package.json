@@ -2,11 +2,11 @@
     "name": "vscode-sublime-material-ui",
     "displayName": "Sublime Material UI",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "m-thorsen",
-    "license": "MIT",
+    "license": "0BSD",
     "galleryBanner": {
-		"color": "#282C34",
+		"color": "#29353B",
 		"theme": "dark"
 	},
     "engines": {
@@ -20,7 +20,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sublime Material UI - default",
+                "label": "Material MT",
                 "uiTheme": "vs-dark",
                 "path": "./themes/default.json"
             }
