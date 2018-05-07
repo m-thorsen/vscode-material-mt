@@ -14,7 +14,7 @@
         "list.activeSelectionBackground": "#00838F",
         "editorCursor.foreground": "#00838F",
 		"editorSuggestWidget.selectedBackground": "#00838F",
-
+		
 		// grays
 		"widget.shadow": "#00000050",
         "editorHoverWidget.border": "#1e272c",
@@ -53,14 +53,16 @@
 		"list.focusForeground": "#ECEFF1",
 		"list.activeSelectionForeground": "#ECEFF1",
 		"list.inactiveSelectionForeground": "#CFD8DC",
-        "badge.foreground": "#ECEFF1", 
+		"badge.foreground": "#ECEFF1", 
+		"input.foreground": "#CFD8DC",
         "list.highlightForeground": "#CFD8DC",
         "titleBar.activeForeground": "#CFD8DC",
         "titleBar.inactiveForeground": "#CFD8DC",
 		"statusBar.foreground": "#78909C",
         "tab.inactiveForeground": "#78909C",
         "sideBar.foreground": "#78909C",
-        "activityBar.foreground": "#78909C",
+		"activityBar.foreground": "#78909C",
+		"input.placeholderForeground": "#78909C",
 
 		"diffEditor.removedTextBackground": "#B71C1C50",
         "diffEditor.insertedTextBackground": "#2E7D3250"
