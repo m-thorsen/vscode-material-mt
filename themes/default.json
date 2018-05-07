@@ -4,8 +4,13 @@
     "name": "default",
     "include": "./tokens.json",
     "colors": {
+        "foreground": "#eeffff",
+        // background1 #29353B
+        // background2 #222D32
+
         "editorHoverWidget.border": "#1e272c",
         "editorSuggestWidget.border": "#1e272c",
+        "focusBorder": "#1e272c",
 
         "activityBar.background": "#222D32",
         "sideBar.background": "#222D32",
@@ -46,11 +51,10 @@
         "list.hoverBackground": "#555F6470",
 
         "tab.activeBorder": "#00BCD4",
-        "activityBarBadge.background": "#00BCD4",
-        "focusBorder": "#00BCD4",
         "pickerGroup.border": "#00BCD4",
         "peekView.border": "#00BCD4",
 
+        "activityBarBadge.background": "#00BCD4",
         "button.background": "#0B9BAF",
         "badge.background": "#0B9BAF",
         "button.hoverBackground": "#00BCD4",
