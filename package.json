@@ -23,16 +23,16 @@
                 "label": "Sublime Material UI - default",
                 "uiTheme": "vs-dark",
                 "path": "./themes/default.json"
-            },
+            }
         ]
     },
     "bugs": {
-        "url": "..."
+        "url": "https://github.com/m-thorsen/vscode-sublime-material-ui/issues"
     },
-    "homepage": "...",
+    "homepage": "https://github.com/m-thorsen/vscode-sublime-material-ui",
     "repository": {
         "type": "git",
-        "url": "..."
+        "url": "https://github.com/m-thorsen/vscode-sublime-material-ui"
     },
     "badges": [
 	]
