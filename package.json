@@ -1,12 +1,12 @@
 {
-    "name": "vscode-sublime-material-ui",
-    "displayName": "Sublime Material UI",
+    "name": "vscode-material-mt",
+    "displayName": "Material MT",
     "description": "",
     "version": "0.1.0",
     "publisher": "m-thorsen",
-    "license": "0BSD",
+    "license": "MIT",
     "galleryBanner": {
-		"color": "#29353B",
+		"color": "#263238",
 		"theme": "dark"
 	},
     "engines": {
@@ -27,12 +27,12 @@
         ]
     },
     "bugs": {
-        "url": "https://github.com/m-thorsen/vscode-sublime-material-ui/issues"
+        "url": "https://github.com/m-thorsen/vscode-material-mt/issues"
     },
-    "homepage": "https://github.com/m-thorsen/vscode-sublime-material-ui",
+    "homepage": "https://github.com/m-thorsen/vscode-material-mt",
     "repository": {
         "type": "git",
-        "url": "https://github.com/m-thorsen/vscode-sublime-material-ui"
+        "url": "https://github.com/m-thorsen/vscode-material-mt"
     },
     "badges": [
 	]
