@@ -1,33 +1,8 @@
 {
-	"$schema": "vscode://schemas/color-theme",
-    "author": "mt",
-	"name": "common",
+    "$schema": "vscode://schemas/color-theme",
+    "name": "common",
 	"colors": {
-		// cyans
-        "tab.activeBorder": "#00BCD4",
-        "pickerGroup.border": "#00BCD4",
-        "button.hoverBackground": "#00BCD4",
-		"selection.background": "#00BCD4",
-		"activityBarBadge.background": "#00BCD4",
-		"button.background": "#00838F",
-        "badge.background": "#00BCD4",
-        "list.activeSelectionBackground": "#00838F",
-        "editorCursor.foreground": "#00838F",
-		"editorSuggestWidget.selectedBackground": "#00838F",
-
-		// grays
 		"widget.shadow": "#00000050",
-        "editorHoverWidget.border": "#1e272c",
-		"editorSuggestWidget.border": "#1e272c",
-		"editor.lineHighlightBackground": "#1e272c",
-		"peekView.border": "#1e272c",
-        "peekViewResult.selectionBackground": "#1e272c",
-        "peekViewTitle.background": "#1e272c",
-        "peekViewEditor.background": "#1e272c",
-		"peekViewResult.background": "#1e272c",
-        "editorSuggestWidget.background": "#1e272c",
-        "editorHoverWidget.background": "#1e272c",
-
         "scrollbarSlider.activeBackground": "#546E7A",
         "scrollbarSlider.hoverBackground": "#546E7A",
         "editorLineNumber.foreground": "#546E7A",
@@ -42,11 +17,6 @@
 		"list.focusBackground": "#37474F",
 		"list.inactiveSelectionBackground": "#37474F",
 		"editor.selectionHighlightBorder": "#37474F",
-
-        "extensionButton.prominentBackground": "#009688",
-		"extensionButton.prominentHoverBackground": "#1DE9B6",
-
-        "activityBarBadge.foreground": "#FFFFFF",
 		"badge.foreground": "#FFFFFF",
         "button.foreground": "#FFFFFF",
 		"foreground": "#ECEFF1",
@@ -63,7 +33,6 @@
         "sideBar.foreground": "#78909C",
 		"activityBar.foreground": "#78909C",
 		"input.placeholderForeground": "#78909C",
-
 		"diffEditor.removedTextBackground": "#B71C1C50",
         "diffEditor.insertedTextBackground": "#2E7D3250"
 	},

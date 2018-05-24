@@ -1,8 +1,8 @@
 {
     "name": "vscode-material-mt",
-    "displayName": "Material MT",
+    "displayName": "Material Basic",
     "description": "Another Material theme",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "m-thorsen",
     "license": "MIT",
     "engines": {
@@ -16,9 +16,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Material MT",
+                "label": "Material Basic Teal",
                 "uiTheme": "vs-dark",
-                "path": "./themes/default.json"
+                "path": "./themes/teal.json"
+            },
+            {
+                "label": "Material Basic Cyan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyan.json"
             }
         ]
     },
