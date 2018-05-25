@@ -10,7 +10,9 @@
         "editorIndentGuide.activeBackground": "#607D8BB0",
       
         "gitDecoration.ignoredResourceForeground": "#546E7A",
-      
+        "gitDecoration.modifiedResourceForeground": "#FFD180C0",
+        "gitDecoration.untrackedResourceForeground": "#81C784",
+        
         "scrollbarSlider.activeBackground": "#546E7A",
         "scrollbarSlider.hoverBackground": "#546E7A",
         "focusBorder": "#546E7A",
