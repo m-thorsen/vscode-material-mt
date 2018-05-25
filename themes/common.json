@@ -8,6 +8,7 @@
         "editorLineNumber.activeForeground": "#607D8B",
         "editorIndentGuide.background": "#455A6480",
         "editorIndentGuide.activeBackground": "#607D8BB0",
+        "editorRuler.foreground": "#455A6480",
       
         "gitDecoration.ignoredResourceForeground": "#546E7A",
         "gitDecoration.modifiedResourceForeground": "#FFD180C0",
