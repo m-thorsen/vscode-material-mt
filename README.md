@@ -1,7 +1,11 @@
-## Material MT
+## Material Basic
 
-Another material theme, inspired by https://github.com/equinusocio/material-theme and https://github.com/JarvisPrestidge/vscode-material-theme
+Inspired by, and using token colors from [Material Theme](https://github.com/equinusocio/material-theme), with a few additions and tweaks.
+
+#### Variants
+* Teal - resembling the original theme
+* Cyan - darker background and cyan highlights to better match the [Adapta GTK theme](https://github.com/adapta-project/adapta-gtk-theme)
 
 ![screenshot](./screenshot.png)
 
-Workbench is fully themed, with tweaked background and highlights adhering to the material palette.
+Workbench is of course fully themed.
