@@ -3,12 +3,16 @@
     "name": "common",
     "colors": {
         "widget.shadow": "#00000050",
+
+        "editorLineNumber.foreground": "#455A64",
+        "editorLineNumber.activeForeground": "#607D8B",
+        "editorIndentGuide.background": "#455A6480",
+        "editorIndentGuide.activeBackground": "#607D8BB0",
+        
         "scrollbarSlider.activeBackground": "#546E7A",
         "scrollbarSlider.hoverBackground": "#546E7A",
-        "editorLineNumber.foreground": "#546E7A",
         "focusBorder": "#546E7A",
         "editorWhitespace.foreground": "#37474F",
-        "editorIndentGuide.background": "#37474F",
         "editor.selectionBackground": "#37474F",
         "scrollbarSlider.background": "#37474F",
         "list.hoverBackground": "#37474F",
