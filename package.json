@@ -2,8 +2,8 @@
     "name": "vscode-material-mt",
     "displayName": "Material Basic",
     "description": "A simpler Material theme in two variants",
-    "version": "0.2.1",
-    "icon": "./icon.png",
+    "version": "0.2.2",
+    "icon": "icon.png",
     "publisher": "m-thorsen",
     "license": "MIT",
     "engines": {
