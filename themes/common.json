@@ -8,7 +8,9 @@
         "editorLineNumber.activeForeground": "#607D8B",
         "editorIndentGuide.background": "#455A6480",
         "editorIndentGuide.activeBackground": "#607D8BB0",
-        
+      
+        "gitDecoration.ignoredResourceForeground": "#546E7A",
+      
         "scrollbarSlider.activeBackground": "#546E7A",
         "scrollbarSlider.hoverBackground": "#546E7A",
         "focusBorder": "#546E7A",
