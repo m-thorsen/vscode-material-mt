@@ -1,0 +1,55 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "teal",
+    "type": "dark",
+    "include": "./common.json",
+    "colors": {
+        // TEALS
+        "tab.activeBorder": "#80CBC4",
+        "pickerGroup.border": "#80CBC4",
+        "button.hoverBackground": "#80CBC4",
+		"selection.background": "#80CBC4",
+		"activityBarBadge.background": "#80CBC4",
+        "editorCursor.foreground": "#80CBC4",
+        "badge.background": "#80CBC4",
+        "extensionButton.prominentHoverBackground": "#80CBC4",
+
+		"button.background": "#009688",
+        "list.activeSelectionBackground": "#009688",
+        "editorSuggestWidget.selectedBackground": "#009688",
+        "extensionButton.prominentBackground": "#009688",
+
+        "activityBarBadge.foreground": "#1e272c",
+
+        "input.background": "#263238",
+		"dropdown.background": "#263238",
+        "statusBar.noFolderBackground": "#263238",
+        "editorWidget.background": "#263238",
+        "editorWidget.border": "#263238",
+        "activityBar.background": "#263238",
+        "sideBar.background": "#263238",
+        "statusBar.background": "#263238",
+        "titleBar.activeBackground": "#263238",
+        "titleBar.inactiveBackground": "#263238",
+        "editor.background": "#263238",
+        "tab.activeBackground": "#263238",
+        "tab.border": "#263238",
+        "tab.inactiveBackground": "#263238",
+        "editorGroupHeader.tabsBackground": "#263238",
+        "editorGroup.background": "#263238",
+        "editorGroup.border": "#263238",
+        "sideBarSectionHeader.background": "#263238",
+        "statusBarItem.hoverBackground": "#263238",
+
+        "editorHoverWidget.border": "#1e272c",
+		"editorSuggestWidget.border": "#1e272c",
+		"editor.lineHighlightBackground": "#1e272c",
+		"peekView.border": "#1e272c",
+        "peekViewResult.selectionBackground": "#1e272c",
+        "peekViewTitle.background": "#1e272c",
+        "peekViewEditor.background": "#1e272c",
+		"peekViewResult.background": "#1e272c",
+        "editorSuggestWidget.background": "#1e272c",
+        "editorHoverWidget.background": "#1e272c"
+    }
+}
