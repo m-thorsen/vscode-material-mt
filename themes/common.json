@@ -65,6 +65,23 @@
             }
         },
         {
+            "name": "Docblock defs",
+            "scope": [
+                "punctuation.definition.block.tag.jsdoc",
+                "entity.name.type.instance.jsdoc",
+                "punctuation.definition.bracket",
+                "variable.other.jsdoc",
+                "storage.type.class.jsdoc",
+                "comment.block.documentation.phpdoc.php keyword.other.phpdoc.php",
+                "meta.other.type.phpdoc.php support.class",
+                "meta.other.type.phpdoc.php keyword.other"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#607D8B"
+            }
+        },
+        {
             "name": "Variables",
             "scope": [
                 "variable",
