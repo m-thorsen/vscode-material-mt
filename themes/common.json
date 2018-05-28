@@ -318,8 +318,7 @@
             "scope": [
                 "entity.name.method.js",
                 "meta.class-method.js entity.name.function.js",
-                "variable.function.constructor",
-                "variable.other.property.js"
+                "variable.function.constructor"
             ],
             "settings": {
                 "foreground": "#82AAFF"
