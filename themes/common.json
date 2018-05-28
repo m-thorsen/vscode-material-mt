@@ -61,9 +61,10 @@
             "name": "Variables",
             "scope": [
                 "variable",
+                "support.variable",
+                "support.variable.property.js",
                 "string constant.other.placeholder",
-                "meta.object-literal.key.js",
-                "support.variable.property.js"
+                "meta.object-literal.key.js"
             ],
             "settings": {
                 "foreground": "#EEFFFF"
@@ -221,8 +222,7 @@
                 "constant.escape",
                 "variable.parameter",
                 "keyword.other.unit",
-                "keyword.other",
-                "support.variable.property.dom.js"
+                "keyword.other"
             ],
             "settings": {
                 "foreground": "#F78C6C"
@@ -264,7 +264,8 @@
                 "support.other.namespace.php",
                 "markup.changed.git_gutter",
                 "support.type.sys-types",
-                "support.variable.dom.js"
+                "support.variable.dom.js",
+                "support.constant"
             ],
             "settings": {
                 "foreground": "#FFCB6B"
