@@ -4,19 +4,23 @@
     "colors": {
         "widget.shadow": "#00000050",
 
-        "editorLineNumber.foreground": "#455A64",
-        "editorLineNumber.activeForeground": "#607D8B",
-        "editorIndentGuide.background": "#455A6480",
-        "editorIndentGuide.activeBackground": "#607D8BB0",
-        "editorRuler.foreground": "#455A6480",
-
         "gitDecoration.ignoredResourceForeground": "#546E7A",
-        "gitDecoration.modifiedResourceForeground": "#FFD180C0",
+        "gitDecoration.modifiedResourceForeground": "#FFCC80",
         "gitDecoration.untrackedResourceForeground": "#81C784",
+        "diffEditor.removedTextBackground": "#B71C1C50",
+        "diffEditor.insertedTextBackground": "#2E7D3250",
 
+        "editorLineNumber.activeForeground": "#546E7A",
         "scrollbarSlider.activeBackground": "#546E7A",
         "scrollbarSlider.hoverBackground": "#546E7A",
         "focusBorder": "#546E7A",
+
+        "list.activeSelectionBackground": "#455A64",
+
+        "editorRuler.foreground": "#37474F80",
+        "editorIndentGuide.background": "#37474F80",
+        "editorLineNumber.foreground": "#37474F",
+        "editorIndentGuide.activeBackground": "#37474F",
         "editorWhitespace.foreground": "#37474F",
         "editor.selectionBackground": "#37474F",
         "scrollbarSlider.background": "#37474F",
@@ -25,25 +29,28 @@
         "dropdown.border": "#37474F",
         "list.focusBackground": "#37474F",
         "list.inactiveSelectionBackground": "#37474F",
+        "editorSuggestWidget.selectedBackground": "#37474F",
         "editor.selectionHighlightBorder": "#37474F",
+
         "badge.foreground": "#FFFFFF",
         "button.foreground": "#FFFFFF",
-        "foreground": "#ECEFF1",
+
         "statusBar.debuggingForeground": "#ECEFF1",
+        "foreground": "#ECEFF1",
         "list.focusForeground": "#ECEFF1",
         "list.activeSelectionForeground": "#ECEFF1",
+
         "list.inactiveSelectionForeground": "#CFD8DC",
-        "input.foreground": "#CFD8DC",
         "list.highlightForeground": "#CFD8DC",
         "titleBar.activeForeground": "#CFD8DC",
         "titleBar.inactiveForeground": "#CFD8DC",
-        "statusBar.foreground": "#78909C",
+        "input.foreground": "#CFD8DC",
+
         "tab.inactiveForeground": "#78909C",
         "sideBar.foreground": "#78909C",
+        "statusBar.foreground": "#78909C",
         "activityBar.foreground": "#78909C",
-        "input.placeholderForeground": "#78909C",
-        "diffEditor.removedTextBackground": "#B71C1C50",
-        "diffEditor.insertedTextBackground": "#2E7D3250"
+        "input.placeholderForeground": "#78909C"
     },
     "tokenColors": [
         {
