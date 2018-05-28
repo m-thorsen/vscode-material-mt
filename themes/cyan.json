@@ -8,7 +8,6 @@
         "tab.activeBorder": "#00BCD4",
         "pickerGroup.border": "#00BCD4",
         "button.hoverBackground": "#00BCD4",
-		"selection.background": "#00BCD4",
 		"activityBarBadge.background": "#00BCD4",
         "editorCursor.foreground": "#00BCD4",
         "badge.background": "#00BCD4",
@@ -16,10 +15,12 @@
         "editorSuggestWidget.highlightForeground": "#00BCD4",
         "list.highlightForeground": "#00BCD4",
 
-		"button.background": "#00838F",
-        "extensionButton.prominentBackground": "#00838F",
+        "selection.background": "#0097A7",
+		"button.background": "#0097A7",
+        "extensionButton.prominentBackground": "#0097A7",
 
-        "activityBarBadge.foreground": "#FFFFFF",
+        "activityBarBadge.foreground": "#13191C",
+        "badge.foreground": "#13191C",
 
         "input.background": "#222D32",
 		"dropdown.background": "#222D32",
