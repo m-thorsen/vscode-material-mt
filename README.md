@@ -11,7 +11,8 @@ Inspired by, and using token colors from [Material Theme](https://github.com/equ
 * Html attributes in .vue and .blade.php files
 * Highlight current line number
 * Highlight current indent guide
-* Tweak JS tokens closer to the Sublime theme
+* JS/Php tokens more similar the Sublime theme
+* Less noisy docblocks
 * And more...
 
 ![screenshot](./images/screenshot.png)
