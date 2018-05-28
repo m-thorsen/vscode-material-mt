@@ -61,7 +61,9 @@
             "name": "Variables",
             "scope": [
                 "variable",
-                "string constant.other.placeholder"
+                "string constant.other.placeholder",
+                "meta.object-literal.key.js",
+                "support.variable.property.js"
             ],
             "settings": {
                 "foreground": "#EEFFFF"
@@ -128,7 +130,6 @@
         {
             "name": "Operator, Misc",
             "scope": [
-                "keyword.control",
                 "constant.other.color",
                 "punctuation",
                 "meta.tag",
@@ -139,7 +140,10 @@
                 "punctuation.definition.tag.end.html",
                 "punctuation.section.embedded",
                 "keyword.other.template",
-                "keyword.other.substitution"
+                "keyword.other.substitution",
+                "meta.array.literal.js",
+                "meta.brace.round.js",
+                "keyword.operator.logical.js"
             ],
             "settings": {
                 "foreground": "#89DDFF"
@@ -151,7 +155,8 @@
                 "keyword.control"
             ],
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": "italic",
+                "foreground": "#C792EA"
             }
         },
         {
@@ -216,7 +221,8 @@
                 "constant.escape",
                 "variable.parameter",
                 "keyword.other.unit",
-                "keyword.other"
+                "keyword.other",
+                "support.variable.property.dom.js"
             ],
             "settings": {
                 "foreground": "#F78C6C"
@@ -243,7 +249,7 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "fontStyle": "normal",
+                "fontStyle": "",
                 "foreground": "#C3E88D"
             }
         },
@@ -310,18 +316,10 @@
         {
             "name": "entity.name.method.js",
             "scope": [
-                "entity.name.method.js"
-            ],
-            "settings": {
-                "fontStyle": "italic",
-                "foreground": "#82AAFF"
-            }
-        },
-        {
-            "name": "meta.method.js",
-            "scope": [
+                "entity.name.method.js",
                 "meta.class-method.js entity.name.function.js",
-                "variable.function.constructor"
+                "variable.function.constructor",
+                "variable.other.property.js"
             ],
             "settings": {
                 "foreground": "#82AAFF"
@@ -559,7 +557,7 @@
                 "text.html.markdown meta.dummy.line-break"
             ],
             "settings": {
-                "foreground": ""
+                "foreground": "#65737E"
             }
         },
         {
@@ -620,16 +618,6 @@
             }
         },
         {
-            "name": "Markup - Strike",
-            "scope": [
-                "markup.strike"
-            ],
-            "settings": {
-                "fontStyle": "strike",
-                "foreground": ""
-            }
-        },
-        {
             "name": "Markdown - Blockquote",
             "scope": [
                 "markup.quote punctuation.definition.blockquote.markdown"
@@ -645,7 +633,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": ""
+                "foreground": "#65737E"
             }
         },
         {
