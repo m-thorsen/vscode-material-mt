@@ -17,6 +17,7 @@
 
         "list.activeSelectionBackground": "#455A64",
 
+        "editorSuggestWidget.selectedBackground": "#37474F",
         "editorRuler.foreground": "#37474F80",
         "editorIndentGuide.background": "#37474F80",
         "editorLineNumber.foreground": "#37474F",
@@ -29,7 +30,6 @@
         "dropdown.border": "#37474F",
         "list.focusBackground": "#37474F",
         "list.inactiveSelectionBackground": "#37474F",
-        "editorSuggestWidget.selectedBackground": "#37474F",
         "editor.selectionHighlightBorder": "#37474F",
 
         "badge.foreground": "#FFFFFF",
@@ -80,7 +80,8 @@
         {
             "name": "PHP Constants",
             "scope": [
-                "constant.other.php"
+                "constant.other.php",
+                "meta.function.parameter.typehinted.php storage.type.php"
             ],
             "settings": {
                 "foreground": "#FFCB6B"
@@ -119,7 +120,8 @@
             "scope": [
                 "keyword",
                 "storage.type",
-                "storage.modifier"
+                "storage.modifier",
+                "keyword.other.phpdoc.php"
             ],
             "settings": {
                 "foreground": "#C792EA"

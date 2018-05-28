@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "cyan",
+    "name": "gray",
     "type": "dark",
     "include": "./common.json",
     "colors": {
@@ -13,9 +13,10 @@
         "editorCursor.foreground": "#42A5F5",
         "badge.background": "#42A5F5",
         "extensionButton.prominentHoverBackground": "#42A5F5",
+        "editorSuggestWidget.highlightForeground": "#42A5F5",
+        "list.highlightForeground": "#42A5F5",
 
 		"button.background": "#1976D2",
-		"editorSuggestWidget.highlightForeground": "#1976D2",
         "extensionButton.prominentBackground": "#1976D2",
 
         "activityBarBadge.foreground": "#FFFFFF",

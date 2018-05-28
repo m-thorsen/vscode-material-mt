@@ -13,10 +13,10 @@
         "editorCursor.foreground": "#80CBC4",
         "badge.background": "#80CBC4",
         "extensionButton.prominentHoverBackground": "#80CBC4",
+        "editorSuggestWidget.highlightForeground": "#80CBC4",
+        "list.highlightForeground": "#80CBC4",
 
 		"button.background": "#009688",
-        "list.activeSelectionBackground": "#009688",
-        "editorSuggestWidget.selectedBackground": "#009688",
         "extensionButton.prominentBackground": "#009688",
 
         "activityBarBadge.foreground": "#1e272c",
