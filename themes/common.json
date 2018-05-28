@@ -263,7 +263,8 @@
                 "meta.use.php",
                 "support.other.namespace.php",
                 "markup.changed.git_gutter",
-                "support.type.sys-types"
+                "support.type.sys-types",
+                "support.variable.dom.js"
             ],
             "settings": {
                 "foreground": "#FFCB6B"
