@@ -12,7 +12,7 @@
         "Themes"
     ],
     "keywords": [],
-    "icon": "icon.png",
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {

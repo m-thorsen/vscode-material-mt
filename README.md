@@ -14,6 +14,6 @@ Inspired by, and using token colors from [Material Theme](https://github.com/equ
 * Tweak JS tokens closer to the Sublime theme
 * And more...
 
-![screenshot](./screenshot.png)
+![screenshot](./images/screenshot.png)
 
 Workbench is of course fully themed.
