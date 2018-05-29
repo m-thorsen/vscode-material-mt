@@ -596,24 +596,26 @@
                 "markup.heading.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
-                "foreground": "#C3E88D"
+                "foreground": "#F78C6C"
             }
         },
         {
             "name": "Markup - Italic",
             "scope": [
-                "markup.italic"
+                "markup.italic",
+                "punctuation.definition.italic.markdown"
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#f07178"
+                "foreground": "#89DDFF"
             }
         },
         {
             "name": "Markup - Bold",
             "scope": [
                 "markup.bold",
-                "markup.bold string"
+                "markup.bold string",
+                "punctuation.definition.bold.markdown"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -625,10 +627,8 @@
             "scope": [
                 "markup.bold markup.italic",
                 "markup.italic markup.bold",
-                "markup.quote markup.bold",
                 "markup.bold markup.italic string",
-                "markup.italic markup.bold string",
-                "markup.quote markup.bold string"
+                "markup.italic markup.bold string"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -660,8 +660,31 @@
                 "markup.quote"
             ],
             "settings": {
+                "foreground": "#78909C"
+            }
+        },
+        {
+            "name": "Markup - Quote Italic",
+            "scope": [
+                "markup.quote markup.italic",
+                "markup.quote markup.italic punctuation.definition.italic.markdown",
+                "markup.quote markup.italic string"
+            ],
+            "settings": {
                 "fontStyle": "italic",
-                "foreground": "#65737E"
+                "foreground": "#78909C"
+            }
+        },
+        {
+            "name": "Markup - Quote Bold",
+            "scope": [
+                "markup.quote markup.bold",
+                "markup.quote markup.bold punctuation.definition.bold.markdown",
+                "markup.quote markup.bold string"
+            ],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#78909C"
             }
         },
         {
@@ -701,13 +724,22 @@
             }
         },
         {
+            "name": "Markdown - List",
+            "scope": [
+                "beginning.punctuation.definition.list.markdown"
+            ],
+            "settings": {
+                "foreground": "#C792EA"
+            }
+        },
+        {
             "name": "Markdown - Fenced Bode Block Variable",
             "scope": [
                 "markup.fenced_code.block.markdown",
                 "markup.inline.raw.string.markdown"
             ],
             "settings": {
-                "foreground": "#EEFFFF90"
+                "foreground": "#C3E88D"
             }
         },
         {
