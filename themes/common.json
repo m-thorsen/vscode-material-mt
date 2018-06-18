@@ -74,7 +74,9 @@
                 "punctuation.definition.bracket",
                 "variable.other.jsdoc",
                 "storage.type.class.jsdoc",
-                "comment.block.documentation.phpdoc.php keyword.other.phpdoc.php",
+                "meta.other.type.phpdoc.php keyword.other.phpdoc.php",
+                "meta.other.type.phpdoc.php punctuation.separator.inheritance.php",
+                "meta.other.type.phpdoc.php support.other.namespace.php",
                 "meta.other.type.phpdoc.php support.class",
                 "meta.other.type.phpdoc.php keyword.other"
             ],
