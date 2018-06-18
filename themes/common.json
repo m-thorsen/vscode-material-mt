@@ -74,11 +74,11 @@
                 "punctuation.definition.bracket",
                 "variable.other.jsdoc",
                 "storage.type.class.jsdoc",
-                "meta.other.type.phpdoc.php keyword.other.phpdoc.php",
-                "meta.other.type.phpdoc.php punctuation.separator.inheritance.php",
-                "meta.other.type.phpdoc.php support.other.namespace.php",
-                "meta.other.type.phpdoc.php support.class",
-                "meta.other.type.phpdoc.php keyword.other"
+                "comment.block.documentation.phpdoc.php keyword.other.phpdoc.php",
+                "comment.block.documentation.phpdoc.php punctuation.separator.inheritance.php",
+                "comment.block.documentation.phpdoc.php support.other.namespace.php",
+                "comment.block.documentation.phpdoc.php support.class",
+                "comment.block.documentation.phpdoc.php keyword.other"
             ],
             "settings": {
                 "fontStyle": "italic",
