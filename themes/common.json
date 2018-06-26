@@ -32,15 +32,15 @@
         "list.inactiveSelectionBackground": "#37474F",
         "editor.selectionHighlightBorder": "#37474F",
 
-        
+
         "badge.foreground": "#FFFFFF",
         "button.foreground": "#FFFFFF",
-        
+
         "statusBar.debuggingForeground": "#ECEFF1",
         "foreground": "#ECEFF1",
         "list.focusForeground": "#ECEFF1",
         "list.activeSelectionForeground": "#ECEFF1",
-        
+
         "editor.foreground": "#B0BEC5",
         "list.inactiveSelectionForeground": "#CFD8DC",
         "list.highlightForeground": "#CFD8DC",
@@ -381,7 +381,8 @@
                 "text.html.basic entity.other.attribute-name.html",
                 "text.html.vue-html entity.other.attribute-name.html",
                 "text.html.php.blade entity.other.attribute-name.html",
-                "text.html.basic entity.other.attribute-name"
+                "text.html.basic entity.other.attribute-name",
+                "text.html.php entity.other.attribute-name"
             ],
             "settings": {
                 "fontStyle": "italic",
