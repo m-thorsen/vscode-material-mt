@@ -6,8 +6,9 @@ This theme pack was originally created for personal use (mainly Laravel/Vue-focu
 
 #### Implemented variants
 * Teal - Based on the original theme
-* Cyan - Slightly darker background, cyan highlights
-* Gray - Gray background, blue highlights
+* Night - Darker background for late night sessions
+* Gray - Gray background, blue highlights. Made to fit [Materia GTK Theme by Nana-4](https://github.com/nana-4/materia-theme)
+* Breeze Dark - Gray background, blue highlights. Made to fit KDE's Breeze Dark theme
 
 #### Tweaks/additions
 * Html attributes in .vue and .blade.php files
