@@ -19,8 +19,18 @@
 		"button.background": "#009688",
         "extensionButton.prominentBackground": "#009688",
 
-        "activityBarBadge.foreground": "#1e272c",
-        "badge.foreground": "#1e272c",
+        "tab.activeForeground": "#CFD8DC",
+
+        "tab.inactiveForeground": "#607D8B",
+        "sideBar.foreground": "#607D8B",
+        "activityBar.foreground": "#607D8B",
+
+        "focusBorder": "#263238",
+        "input.border": "#263238",
+        "dropdown.border": "#263238",
+
+        "activityBarBadge.foreground": "#000000",
+        "badge.foreground": "#000000",
 
         "input.background": "#1e272c",
 		"dropdown.background": "#1e272c",
