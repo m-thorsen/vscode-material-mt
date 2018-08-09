@@ -110,6 +110,7 @@
             "name": "PHP Constants",
             "scope": [
                 "constant.other.php",
+                "constant.other.class.php",
                 "meta.function.parameter.typehinted.php storage.type.php"
             ],
             "settings": {
