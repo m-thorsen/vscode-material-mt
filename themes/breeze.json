@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "breezedark",
+    "name": "breeze",
     "type": "dark",
     "include": "./common.json",
     "colors": {

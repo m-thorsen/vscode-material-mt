@@ -1,8 +1,8 @@
 {
     "name": "vscode-material-mt",
     "displayName": "Material Basic",
-    "description": "A simpler Material theme including adaptations for common Linux themes",
-    "version": "0.3.3",
+    "description": "A simpler Material theme adaptated for common Linux themes",
+    "version": "0.4.0",
     "publisher": "m-thorsen",
     "license": "MIT",
     "engines": {
@@ -16,24 +16,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Material Basic Teal",
+                "label": "Material Basic - Adapta",
                 "uiTheme": "vs-dark",
-                "path": "./themes/teal.json"
+                "path": "./themes/adapta.json"
             },
             {
-                "label": "Material Basic Night",
+                "label": "Material Basic - Materia",
                 "uiTheme": "vs-dark",
-                "path": "./themes/night.json"
+                "path": "./themes/materia.json"
             },
             {
-                "label": "Material Basic Gray",
+                "label": "Material Basic - Breeze",
                 "uiTheme": "vs-dark",
-                "path": "./themes/gray.json"
-            },
-            {
-                "label": "Material Basic Breeze Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/breezedark.json"
+                "path": "./themes/breeze.json"
             }
         ]
     },
