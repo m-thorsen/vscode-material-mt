@@ -3,6 +3,7 @@
     "name": "common",
     "colors": {
         "widget.shadow": "#00000050",
+        "panel.border": "#00000030",
 
         "gitDecoration.ignoredResourceForeground": "#546E7A",
         "gitDecoration.modifiedResourceForeground": "#FFCC80",
