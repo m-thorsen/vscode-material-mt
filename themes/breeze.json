@@ -28,7 +28,7 @@
         "activityBarBadge.foreground": "#FFFFFF",
         "badge.foreground": "#FFFFFF",
 
-        "editor.foreground": "#dee3e4",
+        "editor.foreground": "#b8c3c5",
         "tab.activeForeground": "#dee3e4",
         "list.inactiveSelectionForeground": "#dee3e4",
         "titleBar.activeForeground": "#dee3e4",
