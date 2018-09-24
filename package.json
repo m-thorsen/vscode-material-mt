@@ -2,7 +2,7 @@
     "name": "vscode-material-mt",
     "displayName": "Material Basic",
     "description": "A simpler Material theme adapted for common Linux themes",
-    "version": "0.4.3",
+    "version": "0.4.4",
     "publisher": "m-thorsen",
     "license": "MIT",
     "engines": {
