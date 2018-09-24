@@ -342,12 +342,13 @@
         {
             "name": "orange-300",
             "settings": {
-                "foreground": "#FFAB91"
+                "foreground": "#FF8A65"
             },
             "scope": [
                 "constant.numeric",
                 "constant.language",
                 "support.constant",
+                "variable.other.constant",
                 "constant.character",
                 "constant.escape",
                 "variable.parameter",
@@ -372,7 +373,6 @@
                 "meta.tag.sgml",
                 "markup.deleted.git_gutter",
                 "source.cpp meta.block variable.other",
-                "variable.other.constant",
                 "support.other.variable",
                 "string.other.link",
                 "markup.bold",
