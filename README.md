@@ -18,6 +18,7 @@ This theme pack was originally created for personal use (mainly Laravel/Vue-focu
 * Less noisy docblocks
 * And more...
 
-![screenshot](./images/screenshot.png)
+Screenshot: *Materia variant*
+![screenshot](./images/screenshot-materia.png)
 
 Workbench is of course fully themed.
