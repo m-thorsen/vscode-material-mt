@@ -342,23 +342,9 @@
         {
             "name": "orange-300",
             "settings": {
-                "foreground": "#FF8A65"
+                "foreground": "#FFAB91"
             },
             "scope": [
-                "source.cpp meta.block variable.other",
-                "variable.other.constant",
-                "support.other.variable",
-                "string.other.link",
-                "entity.name.tag",
-                "meta.tag.sgml",
-                "markup.deleted.git_gutter",
-                "markup.bold",
-                "markup.bold string",
-                "punctuation.definition.bold.markdown",
-                "markup.bold markup.italic",
-                "markup.italic markup.bold",
-                "markup.bold markup.italic string",
-                "markup.italic markup.bold string",
                 "constant.numeric",
                 "constant.language",
                 "support.constant",
@@ -373,8 +359,30 @@
                 "markup.heading | markup.heading entity.name",
                 "markup.heading.markdown punctuation.definition.heading.markdown",
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+            ]
+        },
+        {
+            "name": "red-300",
+            "settings": {
+                "foreground": "#E57373"
+            },
+            "scope": [
+                "entity.name.tag",
+                "meta.tag.sgml",
+                "markup.deleted.git_gutter",
+                "source.cpp meta.block variable.other",
+                "variable.other.constant",
+                "support.other.variable",
+                "string.other.link",
+                "markup.bold",
+                "markup.bold string",
+                "markup.bold markup.italic",
+                "markup.italic markup.bold",
+                "markup.bold markup.italic string",
+                "markup.italic markup.bold string",
+                "punctuation.definition.bold.markdown",
+                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
             ]
         },
         {
