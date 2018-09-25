@@ -236,9 +236,9 @@
             ]
         },
         {
-            "name": "lightblue-200",
+            "name": "cyan-200",
             "settings": {
-                "foreground": "#81D4FA"
+                "foreground": "#80DEEA"
             },
             "scope": [
                 "constant.other.color",
@@ -262,9 +262,9 @@
             ]
         },
         {
-            "name": "deeppurple-a100",
+            "name": "purple-200",
             "settings": {
-                "foreground": "#B388FF"
+                "foreground": "#CE93D8"
             },
             "scope": [
                 "invalid.deprecated",
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "name": "orange-200",
+            "name": "orange-200 (-10 blue)",
             "settings": {
-                "foreground": "#FFCC80"
+                "foreground": "#FFCC70"
             },
             "scope": [
                 "constant.other.php",
@@ -336,7 +336,7 @@
         {
             "name": "deeporange-a100",
             "settings": {
-                "foreground": "#FF9E80"
+                "foreground": "#FF8A65"
             },
             "scope": [
                 "constant.numeric",
@@ -363,7 +363,7 @@
                 "foreground": "#E57373"
             },
             "scope": [
-                "entity.name.tag",
+                "entity.name.tag",                
                 "meta.tag.sgml",
                 "markup.deleted.git_gutter",
                 "source.cpp meta.block variable.other",
@@ -380,9 +380,9 @@
             ]
         },
         {
-            "name": "red-400",
+            "name": "red-a200 (+20 blue)",
             "settings": {
-                "foreground": "#EF5350"
+                "foreground": "#FF5272"
             },
             "scope": [
                 "invalid",

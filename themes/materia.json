@@ -80,8 +80,9 @@
         "editorCursor.foreground": "#4285f4",
         "badge.background": "#4285f4",
         "extensionButton.prominentHoverBackground": "#4285f4",
-        "editorSuggestWidget.highlightForeground": "#4285f4",
-        "list.highlightForeground": "#4285f4",
+
+        "editorSuggestWidget.highlightForeground": "#4DB6AC",
+        "list.highlightForeground": "#4DB6AC",
 
 		"button.background": "#009688",
         "extensionButton.prominentBackground": "#4285f4",
