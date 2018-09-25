@@ -5,7 +5,7 @@
     "include": "./common.json",
     "tokenColors": [
         {
-            "name": "gray-100",
+            "name": "Lightest gray",
             "settings": {
                 "foreground": "#EEEEEE"
             },
@@ -21,12 +21,28 @@
             ]
         },
         {
-            "name": "gray-400",
+            "name": "Light gray",
             "settings": {
                 "foreground": "#BDBDBD"
             },
             "scope": [
                 "meta.object-literal.key.js",
+                "source.css support.type.property-name",
+                "source.sass support.type.property-name",
+                "source.scss support.type.property-name",
+                "source.less support.type.property-name",
+                "source.stylus support.type.property-name",
+                "source.postcss support.type.property-name",
+                "support.type",
+            ]
+        },
+        {
+            "name": "Medium gray",
+            "settings": {
+                "foreground": "#9E9E9E"
+            },
+            "scope": [
+                "support.type.vendored.property-name.css",
                 "markup.quote",
                 "markup.quote markup.italic",
                 "markup.quote markup.italic punctuation.definition.italic.markdown",
@@ -37,7 +53,7 @@
             ]
         },
         {
-            "name": "gray-600",
+            "name": "Dark gray",
             "settings": {
                 "foreground": "#757575"
             },
@@ -60,7 +76,7 @@
             ]
         },
         {
-            "name": "gray-700",
+            "name": "Darkest gray",
             "settings": {
                 "foreground": "#616161"
             },

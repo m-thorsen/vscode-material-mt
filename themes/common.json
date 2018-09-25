@@ -126,16 +126,16 @@
             ]
         },
         {
-            "name": "white",
-            "scope": [
-                "constant.other.color"
-            ],
+            "name": "White",
             "settings": {
                 "foreground": "#ffffff"
-            }
+            },
+            "scope": [
+                "constant.other.color"
+            ]
         },
         {
-            "name": "bluegray-50",
+            "name": "Lightest gray",
             "settings": {
                 "foreground": "#EEFFFF"
             },
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "name": "bluegray-100",
+            "name": "Light gray",
             "settings": {
-                "foreground": "#CFD8DC"
+                "foreground": "#B0BEC5"
             },
             "scope": [
                 "meta.object-literal.key.js",
@@ -163,16 +163,16 @@
                 "source.less support.type.property-name",
                 "source.stylus support.type.property-name",
                 "source.postcss support.type.property-name",
-                "support.type.vendored.property-name.css",
                 "support.type",
             ]
         },
         {
-            "name": "bluegray-300",
+            "name": "Medium gray",
             "settings": {
                 "foreground": "#90A4AE"
             },
             "scope": [
+                "support.type.vendored.property-name.css",
                 "markup.quote",
                 "markup.quote markup.italic",
                 "markup.quote markup.italic punctuation.definition.italic.markdown",
@@ -183,7 +183,7 @@
             ]
         },
         {
-            "name": "bluegray-500",
+            "name": "Dark gray",
             "settings": {
                 "foreground": "#607D8B"
             },
@@ -206,7 +206,7 @@
             ]
         },
         {
-            "name": "bluegray-600",
+            "name": "Darkest gray",
             "settings": {
                 "foreground": "#546E7A"
             },
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "name": "lightgreen-300",
+            "name": "Green",
             "settings": {
-                "foreground": "#AED581"
+                "foreground": "#C3E88D"
             },
             "scope": [
                 "string",
@@ -236,9 +236,9 @@
             ]
         },
         {
-            "name": "cyan-200",
+            "name": "Light cyan",
             "settings": {
-                "foreground": "#80DEEA"
+                "foreground": "#89DDFF"
             },
             "scope": [
                 "constant.other.color",
@@ -262,9 +262,9 @@
             ]
         },
         {
-            "name": "purple-200",
+            "name": "Purple",
             "settings": {
-                "foreground": "#CE93D8"
+                "foreground": "#C792EA"
             },
             "scope": [
                 "invalid.deprecated",
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "name": "indigo-a100",
+            "name": "Indigo",
             "settings": {
-                "foreground": "#8C9EFF"
+                "foreground": "#82AAFF"
             },
             "scope": [
                 "entity.name.function",
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "name": "orange-200 (-10 blue)",
+            "name": "Yellow",
             "settings": {
-                "foreground": "#FFCC70"
+                "foreground": "#FFCB7B"
             },
             "scope": [
                 "constant.other.php",
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "name": "deeporange-a100",
+            "name": "Orange",
             "settings": {
-                "foreground": "#FF8A65"
+                "foreground": "#F78C6C"
             },
             "scope": [
                 "constant.numeric",
@@ -358,12 +358,12 @@
             ]
         },
         {
-            "name": "red-300",
+            "name": "Red",
             "settings": {
-                "foreground": "#E57373"
+                "foreground": "#F07178"
             },
             "scope": [
-                "entity.name.tag",                
+                "entity.name.tag",
                 "meta.tag.sgml",
                 "markup.deleted.git_gutter",
                 "source.cpp meta.block variable.other",
@@ -380,9 +380,9 @@
             ]
         },
         {
-            "name": "red-a200 (+20 blue)",
+            "name": "Dark red/pink",
             "settings": {
-                "foreground": "#FF5272"
+                "foreground": "#FF5370"
             },
             "scope": [
                 "invalid",
