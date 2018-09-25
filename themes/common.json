@@ -90,7 +90,8 @@
                 "text.html.basic entity.other.attribute-name",
                 "text.html.php entity.other.attribute-name",
                 "tag.decorator.js entity.name.tag.js",
-                "tag.decorator.js punctuation.definition.tag.js"
+                "tag.decorator.js punctuation.definition.tag.js",
+                "support.type.vendored.property-name.css",
             ]
         },
         {
@@ -155,7 +156,15 @@
                 "foreground": "#CFD8DC"
             },
             "scope": [
-                "meta.object-literal.key.js"
+                "meta.object-literal.key.js",
+                "source.css support.type.property-name",
+                "source.sass support.type.property-name",
+                "source.scss support.type.property-name",
+                "source.less support.type.property-name",
+                "source.stylus support.type.property-name",
+                "source.postcss support.type.property-name",
+                "support.type.vendored.property-name.css",
+                "support.type",
             ]
         },
         {
@@ -249,28 +258,13 @@
                 "string.regexp",
                 "constant.character.escape",
                 "markup.italic",
-                "punctuation.definition.italic.markdown"
+                "punctuation.definition.italic.markdown",
             ]
         },
         {
-            "name": "blue-100",
+            "name": "deeppurple-a100",
             "settings": {
-                "foreground": "#BBDEFB"
-            },
-            "scope": [
-                "support.type",
-                "source.css support.type.property-name",
-                "source.sass support.type.property-name",
-                "source.scss support.type.property-name",
-                "source.less support.type.property-name",
-                "source.stylus support.type.property-name",
-                "source.postcss support.type.property-name"
-            ]
-        },
-        {
-            "name": "purple-200",
-            "settings": {
-                "foreground": "#CE93D8"
+                "foreground": "#B388FF"
             },
             "scope": [
                 "invalid.deprecated",
@@ -340,9 +334,9 @@
             ]
         },
         {
-            "name": "orange-300",
+            "name": "deeporange-a100",
             "settings": {
-                "foreground": "#FF8A65"
+                "foreground": "#FF9E80"
             },
             "scope": [
                 "constant.numeric",
@@ -386,9 +380,9 @@
             ]
         },
         {
-            "name": "red-500",
+            "name": "red-400",
             "settings": {
-                "foreground": "#F44336"
+                "foreground": "#EF5350"
             },
             "scope": [
                 "invalid",
