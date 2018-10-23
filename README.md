@@ -22,3 +22,9 @@ Screenshot: *Materia variant*
 ![screenshot](./images/screenshot-materia.png)
 
 Workbench is of course fully themed.
+
+
+#### Contributors
+[@MattMattV](https://github.com/MattMattV)
+
+Thanks for the contributions!
