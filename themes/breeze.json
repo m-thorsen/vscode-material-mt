@@ -46,18 +46,6 @@
         "scrollbarSlider.hoverBackground": "#616569",
         "focusBorder": "#616569",
 
-        "input.border": "#31363b",
-        "dropdown.border": "#31363b",
-        "editorSuggestWidget.selectedBackground": "#31363b",
-        "editorLineNumber.foreground": "#31363b",
-        "editorIndentGuide.activeBackground": "#31363b",
-        "editorWhitespace.foreground": "#31363b",
-        "scrollbarSlider.background": "#31363b",
-        "list.inactiveSelectionBackground": "#31363b",
-        "editor.selectionHighlightBorder": "#31363b",
-        "editorIndentGuide.background": "#31363b",
-        "editorRuler.foreground": "#31363b",
-
         // #292d32
         "input.background": "#292d32",
 		"dropdown.background": "#292d32",
@@ -79,15 +67,15 @@
         "sideBarSectionHeader.background": "#292d32",
         "statusBarItem.hoverBackground": "#292d32",
 
-        "editorHoverWidget.border": "#1a1c1e",
-		"editorSuggestWidget.border": "#1a1c1e",
-		"editor.lineHighlightBackground": "#1a1c1e",
-		"peekView.border": "#1a1c1e",
-        "peekViewResult.selectionBackground": "#1a1c1e",
-        "peekViewTitle.background": "#1a1c1e",
-        "peekViewEditor.background": "#1a1c1e",
-		"peekViewResult.background": "#1a1c1e",
-        "editorSuggestWidget.background": "#1a1c1e",
-        "editorHoverWidget.background": "#1a1c1e"
+        "editorHoverWidget.border": "#1e2125",
+		"editorSuggestWidget.border": "#1e2125",
+		"editor.lineHighlightBackground": "#1e2125",
+		"peekView.border": "#1e2125",
+        "peekViewResult.selectionBackground": "#1e2125",
+        "peekViewTitle.background": "#1e2125",
+        "peekViewEditor.background": "#1e2125",
+		"peekViewResult.background": "#1e2125",
+        "editorSuggestWidget.background": "#1e2125",
+        "editorHoverWidget.background": "#1e2125"
     }
 }

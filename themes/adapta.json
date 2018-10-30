@@ -19,8 +19,8 @@
 		"button.background": "#009688",
         "extensionButton.prominentBackground": "#009688",
 
-        "activityBarBadge.foreground": "#1e272c",
-        "badge.foreground": "#1e272c",
+        "activityBarBadge.foreground": "#192125",
+        "badge.foreground": "#192125",
 
         "input.background": "#222d32",
 		"dropdown.background": "#222d32",
@@ -42,15 +42,15 @@
         "sideBarSectionHeader.background": "#222d32",
         "statusBarItem.hoverBackground": "#222d32",
 
-        "editorHoverWidget.border": "#1e272c",
-		"editorSuggestWidget.border": "#1e272c",
-		"editor.lineHighlightBackground": "#1e272c",
-		"peekView.border": "#1e272c",
-        "peekViewResult.selectionBackground": "#1e272c",
-        "peekViewTitle.background": "#1e272c",
-        "peekViewEditor.background": "#1e272c",
-		"peekViewResult.background": "#1e272c",
-        "editorSuggestWidget.background": "#1e272c",
-        "editorHoverWidget.background": "#1e272c"
+        "editorHoverWidget.border": "#192125",
+		"editorSuggestWidget.border": "#192125",
+		"editor.lineHighlightBackground": "#192125",
+		"peekView.border": "#192125",
+        "peekViewResult.selectionBackground": "#192125",
+        "peekViewTitle.background": "#192125",
+        "peekViewEditor.background": "#192125",
+		"peekViewResult.background": "#192125",
+        "editorSuggestWidget.background": "#192125",
+        "editorHoverWidget.background": "#192125"
     }
 }
