@@ -1,0 +1,15 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "materia-contrast",
+    "type": "dark",
+    "include": "./materia.json",
+    "colors": {
+        "sideBar.background": "#2c2c2c",
+        "activityBar.background": "#2c2c2c",
+        "statusBar.background": "#2c2c2c",
+        "panel.background": "#2c2c2c",
+        "editorGroupHeader.tabsBackground": "#2c2c2c",
+        "editor.background": "#282828",
+        "tab.activeBorder": "#4285f4"
+    }
+}

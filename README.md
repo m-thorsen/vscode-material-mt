@@ -8,6 +8,7 @@ This theme pack was originally created for personal use (mainly Laravel/Vue-focu
 * Adapta - Based on the original theme, with background tweaked to match [Adapta GTK Theme](https://github.com/adapta-project/adapta-gtk-theme)
 * Breeze - Tinted gray background, blue highlights. Made to fit KDE's Breeze Dark theme
 * Materia - Gray background, blue highlights. Made to fit [Materia GTK Theme](https://github.com/nana-4/materia-theme)
+* Materia-Contrast - Materia variant with added contrast and darker editor background
 
 #### Tweaks/additions
 * Html attributes in .vue and .blade.php files

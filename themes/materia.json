@@ -89,7 +89,7 @@
     ],
     "colors": {
         // CYANS
-        "tab.activeBorder": "#E0E0E0",
+        "tab.activeBorder": "#BDBDBD",
         "pickerGroup.border": "#4285f4",
 		"selection.background": "#4285f4",
 		"activityBarBadge.background": "#4285f4",
@@ -157,24 +157,29 @@
         "titleBar.activeBackground": "#303030",
         "titleBar.inactiveBackground": "#303030",
         "editor.background": "#303030",
-        "tab.activeBackground": "#303030",
-        "tab.border": "#303030",
-        "tab.inactiveBackground": "#303030",
         "editorGroupHeader.tabsBackground": "#303030",
         "editorGroup.emptyBackground": "#303030",
-        "editorGroup.border": "#303030",
-        "sideBarSectionHeader.background": "#303030",
         "statusBarItem.hoverBackground": "#303030",
-
+        
+        "editorGroup.border": "#212121",
+        "sideBar.border": "#212121",
+        "panel.border": "#212121",
+        "statusBar.border": "#212121",
         "editorHoverWidget.border": "#212121",
 		"editorSuggestWidget.border": "#212121",
+        "peekView.border": "#212121",
+        
 		"editor.lineHighlightBackground": "#212121",
-		"peekView.border": "#212121",
         "peekViewResult.selectionBackground": "#212121",
         "peekViewTitle.background": "#212121",
         "peekViewEditor.background": "#212121",
 		"peekViewResult.background": "#212121",
         "editorSuggestWidget.background": "#212121",
-        "editorHoverWidget.background": "#212121"
+        "editorHoverWidget.background": "#212121",
+
+        "sideBarSectionHeader.background": "#00000000",
+        "tab.activeBackground": "#00000000",
+        "tab.border": "#00000000",
+        "tab.inactiveBackground": "#00000000",
     }
 }
