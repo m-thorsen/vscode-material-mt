@@ -90,6 +90,7 @@
     "colors": {
         // CYANS
         "tab.activeBorder": "#BDBDBD",
+
         "pickerGroup.border": "#4285f4",
 		"selection.background": "#4285f4",
 		"activityBarBadge.background": "#4285f4",
@@ -135,15 +136,15 @@
         "editorRuler.foreground": "#424242",
 
         "editorSuggestWidget.selectedBackground": "#363636",
-        "list.activeSelectionBackground": "#363636",
         "editorIndentGuide.activeBackground": "#363636",
         "scrollbarSlider.background": "#363636",
-        "list.hoverBackground": "#363636",
-        "list.focusBackground": "#363636",
+        "list.activeSelectionBackground": "#363636",
         "list.inactiveSelectionBackground": "#363636",
+        "list.focusBackground": "#363636",
+        "list.hoverBackground": "#363636",
         "input.border": "#363636",
-        "dropdown.border": "#363636",
         "input.background": "#363636",
+        "dropdown.border": "#363636",
         "dropdown.background": "#363636",
 
         "editorIndentGuide.background": "#36363680",
@@ -160,15 +161,16 @@
         "editorGroupHeader.tabsBackground": "#303030",
         "editorGroup.emptyBackground": "#303030",
         "statusBarItem.hoverBackground": "#303030",
-        
-        "editorGroup.border": "#212121",
-        "sideBar.border": "#212121",
-        "panel.border": "#212121",
-        "statusBar.border": "#212121",
-        "editorHoverWidget.border": "#212121",
-		"editorSuggestWidget.border": "#212121",
-        "peekView.border": "#212121",
-        
+
+        "titleBar.border": "#282828",
+        "editorGroup.border": "#282828",
+        "sideBar.border": "#282828",
+        "panel.border": "#282828",
+        "statusBar.border": "#282828",
+        "editorHoverWidget.border": "#282828",
+		"editorSuggestWidget.border": "#282828",
+        "peekView.border": "#282828",
+
 		"editor.lineHighlightBackground": "#212121",
         "peekViewResult.selectionBackground": "#212121",
         "peekViewTitle.background": "#212121",
