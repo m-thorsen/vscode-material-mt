@@ -19,9 +19,9 @@
         "list.activeSelectionBackground": "#455A64",
 
         "editorSuggestWidget.selectedBackground": "#37474F",
-        "editorRuler.foreground": "#37474F",
-        "editorIndentGuide.background": "#37474F80",
-        "editorLineNumber.foreground": "#37474F",
+        "editorRuler.foreground": "#37474FA0",
+        "editorIndentGuide.background": "#37474FA0",
+        "editorLineNumber.foreground": "#37474FA0",
         "editorIndentGuide.activeBackground": "#37474F",
         "editorWhitespace.foreground": "#37474F",
         "editor.selectionBackground": "#37474F",
