@@ -1,0 +1,187 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "adwaita",
+    "type": "dark",
+    "include": "./common.json",
+    "tokenColors": [
+        {
+            "name": "Lightest gray",
+            "settings": {
+                "foreground": "#EEEEEC"
+            },
+            "scope": [
+                "variable",
+                "support.variable",
+                "support.variable.property.js",
+                "string constant.other.placeholder",
+                "meta.object-literal.key.js",
+                "text.html.markdown",
+                "punctuation.definition.list_item.markdown",
+                "markup.table"
+            ]
+        },
+        {
+            "name": "Light gray",
+            "settings": {
+                "foreground": "#C8C9C9"
+            },
+            "scope": [
+                "meta.object-literal.key.js",
+                "source.css support.type.property-name",
+                "source.sass support.type.property-name",
+                "source.scss support.type.property-name",
+                "source.less support.type.property-name",
+                "source.stylus support.type.property-name",
+                "source.postcss support.type.property-name",
+                "support.type",
+            ]
+        },
+        {
+            "name": "Medium gray",
+            "settings": {
+                "foreground": "#919494"
+            },
+            "scope": [
+                "support.type.vendored.property-name.css",
+                "markup.quote",
+                "markup.quote markup.italic",
+                "markup.quote markup.italic punctuation.definition.italic.markdown",
+                "markup.quote markup.italic string",
+                "markup.quote markup.bold",
+                "markup.quote markup.bold punctuation.definition.bold.markdown",
+                "markup.quote markup.bold string"
+            ]
+        },
+        {
+            "name": "Dark gray",
+            "settings": {
+                "foreground": "#656769"
+            },
+            "scope": [
+                "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
+                "text.html.markdown meta.dummy.line-break",
+                "markup.quote punctuation.definition.blockquote.markdown",
+                "variable.language.fenced.markdown",
+                "meta.separator",
+                "punctuation.definition.block.tag.jsdoc",
+                "entity.name.type.instance.jsdoc",
+                "punctuation.definition.bracket",
+                "variable.other.jsdoc",
+                "storage.type.class.jsdoc",
+                "comment.block.documentation.phpdoc.php keyword.other.phpdoc.php",
+                "comment.block.documentation.phpdoc.php punctuation.separator.inheritance.php",
+                "comment.block.documentation.phpdoc.php support.other.namespace.php",
+                "comment.block.documentation.phpdoc.php support.class",
+                "comment.block.documentation.phpdoc.php keyword.other"
+            ]
+        },
+        {
+            "name": "Darkest gray",
+            "settings": {
+                "foreground": "#656769"
+            },
+            "scope": [
+                "comment",
+                "meta.other.type.phpdoc.php punctuation",
+                "punctuation.definition.comment"
+            ]
+        },
+    ],
+    "colors": {
+        "tab.activeBorder": "#215D9C",
+
+        "pickerGroup.border": "#215D9C",
+		"selection.background": "#215D9C",
+        "editorCursor.foreground": "#215D9C",
+        "extensionButton.prominentHoverBackground": "#215D9C",
+        "list.activeSelectionBackground": "#215D9C",
+        "list.inactiveSelectionBackground": "#215D9C80",
+        "list.focusBackground": "#215D9C",
+        "list.hoverBackground": "#215D9C80",
+		"activityBarBadge.background": "#215D9C",
+        "badge.background": "#215D9C",
+		"button.background": "#215D9C",
+        "editorSuggestWidget.highlightForeground": "#4A90D9",
+        "list.highlightForeground": "#4A90D9",
+        "extensionButton.prominentBackground": "#4A90D9",
+        "button.hoverBackground": "#4A90D9",
+
+        "foreground": "#EEEEEC",
+        "tab.activeForeground": "#EEEEEC",
+        "list.inactiveSelectionForeground": "#EEEEEC",
+        "editor.foreground": "#C8C9C9",
+        "titleBar.activeForeground": "#C8C9C9",
+        "input.foreground": "#C8C9C9",
+
+        "titleBar.inactiveForeground": "#919494",
+        "sideBar.foreground": "#919494",
+        "statusBar.foreground": "#919494",
+        "activityBar.foreground": "#919494",
+        "tab.inactiveForeground": "#919494",
+        "input.placeholderForeground": "#919494B0",
+        "editorLineNumber.activeForeground": "#919494B0",
+
+        "gitDecoration.ignoredResourceForeground": "#EEEEEC80",
+
+        // unused: #656769
+
+        "focusBorder": "#404547",
+        "editorLineNumber.foreground": "#404547",
+        "editorWhitespace.foreground": "#404547",
+        "editor.selectionHighlightBorder": "#404547",
+        "scrollbarSlider.activeBackground": "#404547",
+        "scrollbarSlider.hoverBackground": "#404547",
+        "editor.selectionBackground": "#404547",
+        "menu.selectionBackground": "#404547",
+        "editorRuler.foreground": "#404547",
+
+        "editorSuggestWidget.selectedBackground": "#33393B",
+        "editorIndentGuide.activeBackground": "#33393B",
+        "scrollbarSlider.background": "#33393B",
+        "input.border": "#33393B",
+        "dropdown.border": "#33393B",
+
+        "editorIndentGuide.background": "#33393B80",
+
+        "statusBar.noFolderBackground": "#2C3133",
+        "editorWidget.background": "#2C3133",
+        "editorWidget.border": "#2C3133",
+        "titleBar.activeBackground": "#2C3133",
+        "titleBar.inactiveBackground": "#33393B",
+        "editorGroupHeader.tabsBackground": "#2C3133",
+        "editorGroup.emptyBackground": "#2C3133",
+        "statusBarItem.hoverBackground": "#2C3133",
+        "sideBar.background": "#2C3133",
+        "activityBar.background": "#2C3133",
+        "statusBar.background": "#2C3133",
+        "panel.background": "#2C3133",
+
+		"editor.lineHighlightBackground": "#1D2121",
+        "peekViewResult.selectionBackground": "#1D2121",
+        "peekViewTitle.background": "#1D2121",
+        "peekViewEditor.background": "#1D2121",
+		"peekViewResult.background": "#1D2121",
+        "editorSuggestWidget.background": "#1D2121",
+        "editorHoverWidget.background": "#1D2121",
+
+        //
+        "editor.background": "#252A2C",
+        "input.background": "#252A2C",
+        "dropdown.background": "#252A2C",
+
+        "editorGroupHeader.tabsBorder": "#161819",
+        "titleBar.border": "#161819",
+        "editorGroup.border": "#161819",
+        "sideBar.border": "#161819",
+        "panel.border": "#161819",
+        "statusBar.border": "#161819",
+        "editorHoverWidget.border": "#161819",
+		"editorSuggestWidget.border": "#161819",
+        "peekView.border": "#161819",
+
+        "sideBarSectionHeader.background": "#00000000",
+        "tab.activeBackground": "#00000000",
+        "tab.border": "#00000000",
+        "tab.inactiveBackground": "#00000000",
+    }
+}

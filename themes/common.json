@@ -35,6 +35,7 @@
 
         "badge.foreground": "#FFFFFF",
         "button.foreground": "#FFFFFF",
+        "activityBarBadge.foreground": "#FFFFFF",
 
         "statusBar.debuggingForeground": "#ECEFF1",
         "foreground": "#ECEFF1",
