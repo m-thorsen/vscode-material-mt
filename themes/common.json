@@ -85,7 +85,6 @@
                 "punctuation.definition.italic.markdown",
                 "variable.language",
                 "source.js constant.other.object.key.js string.unquoted.label.js",
-                // "entity.other.attribute-name",
                 "text.html.basic entity.other.attribute-name.html",
                 "text.html.vue-html entity.other.attribute-name.html",
                 "text.html.php.blade entity.other.attribute-name.html",
@@ -129,12 +128,21 @@
             ]
         },
         {
+            "name": "Normal",
+            "settings": {
+                "fontStyle": "",
+            },
+            "scope": [
+            ]
+        },
+        {
             "name": "White",
             "settings": {
                 "foreground": "#ffffff"
             },
             "scope": [
-                "constant.other.color"
+                "constant.other.color",
+                "meta.selector.css",
             ]
         },
         {
