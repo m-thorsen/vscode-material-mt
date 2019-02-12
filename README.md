@@ -29,6 +29,10 @@ Workbench is of course fully themed.
 Thanks for the contributions!
 
 #### Notable changes
+0.9:
+* Updated list/pickergroup borders and background
+* Fixed Materia variants' borders and contrast
+
 0.8: 
 * Breeze variant removed (may be reinstated in the future)
 * Adapta suffix removed as the theme is undergoing changes

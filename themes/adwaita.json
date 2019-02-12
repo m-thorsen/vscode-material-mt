@@ -88,25 +88,30 @@
         },
     ],
     "colors": {
-        "tab.activeBorder": "#215D9C",
+        // Bright blue #3584e4
+        // Mid blue #1a68c6
+        // Dark blue #103e75
+        "tab.activeBorder": "#1a68c6",
 
-        "pickerGroup.border": "#215D9C",
-		"selection.background": "#215D9C",
-        "editorCursor.foreground": "#215D9C",
-        "extensionButton.prominentHoverBackground": "#215D9C",
-        "list.activeSelectionBackground": "#215D9C",
-        "list.inactiveSelectionBackground": "#215D9C80",
-        "list.focusBackground": "#215D9C80",
-        "list.hoverBackground": "#215D9C50",
-		"activityBarBadge.background": "#215D9C",
-        "badge.background": "#215D9C",
-		"button.background": "#215D9C",
-        "editorSuggestWidget.highlightForeground": "#4A90D9",
-        "list.highlightForeground": "#4A90D9",
-        "extensionButton.prominentBackground": "#4A90D9",
-        "button.hoverBackground": "#4A90D9",
+        "editorCursor.foreground": "#3584e4",
+        "extensionButton.prominentBackground": "#3584e4",
+        "extensionButton.prominentHoverBackground": "#1a68c6",
+        "activityBarBadge.background": "#1a68c6",
+        "badge.background": "#1a68c6",
 
-        "foreground": "#EEEEEC",
+        "pickerGroup.foreground": "#3584e4",
+        "editorSuggestWidget.highlightForeground": "#3584e4",
+        "list.highlightForeground": "#3584e4",
+        "button.hoverBackground": "#3584e4",
+
+        "selection.background": "#1a68c6",
+		"button.background": "#1a68c6",
+        "list.focusBackground": "#103e75",
+        "list.activeSelectionBackground": "#103e75",
+
+        "list.hoverBackground": "#404547",
+        "list.inactiveSelectionBackground": "#33393B",
+
         "tab.activeForeground": "#EEEEEC",
         "list.inactiveSelectionForeground": "#EEEEEC",
         "editor.foreground": "#C8C9C9",
@@ -124,7 +129,7 @@
         "gitDecoration.ignoredResourceForeground": "#EEEEEC80",
 
         // unused: #656769
-
+        "pickerGroup.border": "#404547",
         "focusBorder": "#404547",
         "editorLineNumber.foreground": "#404547",
         "editorWhitespace.foreground": "#404547",

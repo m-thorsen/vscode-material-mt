@@ -1,46 +1,50 @@
 {
-    "name": "vscode-material-mt",
-    "displayName": "Material Basic",
-    "description": "A simpler Material theme adapted for common Linux themes",
-    "version": "0.8.4",
-    "publisher": "m-thorsen",
-    "license": "MIT",
-    "engines": {
-       "vscode": "^1.28.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [],
-    "icon": "images/icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Material Basic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/default.json"
-            },
-            {
-                "label": "Material Basic - Adwaita",
-                "uiTheme": "vs-dark",
-                "path": "./themes/adwaita.json"
-            },
-            {
-                "label": "Material Basic - Materia",
-                "uiTheme": "vs-dark",
-                "path": "./themes/materia.json"
-            },
-            {
-                "label": "Material Basic - Materia Contrast",
-                "uiTheme": "vs-dark",
-                "path": "./themes/materia-contrast.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/m-thorsen/vscode-material-mt"
-    },
-    "badges": [
-	]
+	"name": "vscode-material-mt",
+	"displayName": "Material Basic",
+	"description": "A simpler Material theme adapted for common Linux themes",
+	"version": "0.9.0",
+	"publisher": "m-thorsen",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.31.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [],
+	"icon": "images/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Basic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/default.json"
+			},
+			{
+				"label": "Material Basic - Adwaita",
+				"uiTheme": "vs-dark",
+				"path": "./themes/adwaita.json"
+			},
+			{
+				"label": "Material Basic - Materia",
+				"uiTheme": "vs-dark",
+				"path": "./themes/materia.json"
+			},
+			{
+				"label": "Material Basic - Materia Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/materia-contrast.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/m-thorsen/vscode-material-mt"
+	},
+	"badges": [],
+	"__metadata": {
+		"id": "b6487e9e-2b28-4c92-8172-67ab58479ce2",
+		"publisherDisplayName": "Martin Thorsen",
+		"publisherId": "18cf6731-092d-4166-a4cc-81af1bae057a"
+	}
 }
