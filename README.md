@@ -6,9 +6,7 @@ This theme pack was originally created for personal use (mainly Laravel/Vue-focu
 
 #### Implemented variants
 * Materia Basic - Based on the original theme, will fit the original [Adapta GTK Theme](https://github.com/adapta-project/adapta-gtk-theme) 
-* Adwaita - Made to fit GNOME's Adwaita Dark theme
-* Materia - Made to fit [Materia GTK Theme](https://github.com/nana-4/materia-theme)
-* Materia-Contrast - Materia variant with added contrast and darker editor background
+* Materia Basic / Breeze - Made to fit KDE's Breeze Dark theme
 
 #### Tweaks/additions
 * Better support for PHP and Vue
@@ -18,9 +16,6 @@ This theme pack was originally created for personal use (mainly Laravel/Vue-focu
 * Less noisy docblocks
 * And more...
 
-Screenshot: *Materia variant*
-![screenshot](./images/screenshot-materia.png)
-
 Workbench is of course fully themed.
 
 #### Contributors
@@ -29,6 +24,11 @@ Workbench is of course fully themed.
 Thanks for the contributions!
 
 #### Notable changes
+0.10:
+* Removed Materia variant for now as it has it's own extension - this may get merged later
+* Removed Adwaita variant as the new Adwaita uses a different palette - please use Materia for this
+* Re-added Breeze variant
+
 0.9:
 * Updated list/pickergroup borders and background
 * Fixed Materia variants' borders and contrast

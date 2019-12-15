@@ -1,11 +1,11 @@
 Ref: Original colors vs closest match in Material palette
 
 # Grays
-Darkest gray    (Comment)     546E7A    546E7A    Blue Gray 600
-Dark gray       (Comment+)    ?         607D8B    Blue Gray 500
-Medium gray     (?)           ?         90A4AE    Blue Gray 300
-Light gray      (Keys)        ?         B0BEC5    Blue Gray 200
-Lightest gray   (Variables)   ?         ECEFF1    Blue Gray 50
+Darkest gray    (Comment)     546E7A    546E7A  586263   Blue Gray 600
+Dark gray       (Comment+)    ?         607D8B  676b6e    Blue Gray 500
+Medium gray     (?)           ?         90A4AE  7f8c8d    Blue Gray 300
+Light gray      (Keys)        ?         B0BEC5  bdc3c7    Blue Gray 200
+Lightest gray   (Variables)   ?         ECEFF1  eff0f1    Blue Gray 50
 
 # Colors
 Pink            (This)        FF5370    FF4081    Pink A100
