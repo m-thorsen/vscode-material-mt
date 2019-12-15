@@ -24,7 +24,7 @@
 				"label": "Material Basic - Breeze",
 				"uiTheme": "vs-dark",
 				"path": "./themes/breeze.json"
-			},
+			}
 		]
 	},
 	"repository": {
