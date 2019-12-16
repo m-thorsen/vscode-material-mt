@@ -17,7 +17,7 @@
                 "meta.object-literal.key.js",
                 "text.html.markdown",
                 "punctuation.definition.list_item.markdown",
-                "markup.table",
+                "markup.table"
             ]
         },
         {
@@ -32,7 +32,7 @@
                 "source.scss support.type.property-name",
                 "source.less support.type.property-name",
                 "source.stylus support.type.property-name",
-                "source.postcss support.type.property-name",
+                "source.postcss support.type.property-name"
             ]
         },
         {
@@ -84,7 +84,7 @@
                 "meta.other.type.phpdoc.php punctuation",
                 "punctuation.definition.comment"
             ]
-        },
+        }
     ],
     "colors": {
         // Blues
@@ -93,20 +93,23 @@
 		"activityBarBadge.background": "#3daee9",
         "badge.background": "#3daee9",
         "button.hoverBackground": "#3daee9",
+        "list.highlightForeground": "#3daee9",
 
         "editorCursor.foreground": "#2980b9",
         "extensionButton.prominentBackground": "#2980b9",
         "extensionButton.prominentHoverBackground": "#2980b9",
         "pickerGroup.foreground": "#2980b9",
         "editorSuggestWidget.highlightForeground": "#2980b9",
-        "list.highlightForeground": "#2980b9",
         "button.background": "#2980b9",
 
 		"selection.background": "#2980b960",
         "list.focusBackground": "#2980b960",
         "list.activeSelectionBackground": "#2980b960",
         "inputOption.activeBackground": "#2980b960",
+
         "tab.activeBackground": "#2980b930",
+        "list.inactiveSelectionBackground": "#2980b930",
+        "list.inactiveSelectionForeground": "#eff0f1A0",
 
         // Grays
         "badge.foreground": "#FFFFFF",
@@ -145,7 +148,6 @@
         "editor.selectionBackground": "#31363b",
         "menu.selectionBackground": "#31363b",
 
-        "list.inactiveSelectionBackground": "#31363b",
         "editorSuggestWidget.selectedBackground": "#31363b",
         "editorIndentGuide.activeBackground": "#31363b",
         "editorRuler.foreground": "#31363b",
