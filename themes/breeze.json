@@ -89,7 +89,7 @@
     "colors": {
         // Blues
         "tab.activeBorder": "#3daee9",
-        "titleBar.border": "#3daee9",
+        "panelTitle.activeBorder": "#3daee9",
 		"activityBarBadge.background": "#3daee9",
         "badge.background": "#3daee9",
         "button.hoverBackground": "#3daee9",
@@ -118,17 +118,21 @@
 
         "editor.foreground": "#eff0f1A0",
         "input.foreground": "#eff0f1A0",
-        "sideBar.foreground": "#eff0f1A0",
-        "activityBar.foreground": "#eff0f1A0",
 
+        "sideBar.foreground": "#eff0f170",
+        "activityBar.foreground": "#eff0f170",
         "titleBar.inactiveForeground": "#eff0f170",
         "statusBar.foreground": "#eff0f170",
         "statusBarItem.remoteForeground": "#eff0f170",
         "editorLineNumber.activeForeground": "#eff0f170",
-        "tab.inactiveForeground": "#eff0f170",
         "input.placeholderForeground": "#eff0f170",
         "gitDecoration.ignoredResourceForeground": "#eff0f170",
 
+        "tab.inactiveForeground": "#eff0f150",
+        "panelTitle.inactiveForeground": "#eff0f150",
+
+        "input.background": "#44484b",
+        "dropdown.background": "#44484b",
         "pickerGroup.border": "#44484b",
         "focusBorder": "#44484b",
         "editorLineNumber.foreground": "#44484b",
@@ -146,16 +150,10 @@
         "editorIndentGuide.activeBackground": "#31363b",
         "editorRuler.foreground": "#31363b",
         "scrollbarSlider.background": "#31363b",
-        "input.border": "#31363b",
-        "input.background": "#31363b",
-        "dropdown.border": "#31363b",
-        "dropdown.background": "#31363b",
         "titleBar.activeBackground": "#31363b",
         "titleBar.inactiveBackground": "#31363b",
-
         "editorOverviewRuler.border": "#31363b",
         "editorIndentGuide.background": "#31363b",
-
         "editorWidget.background": "#31363b",
         "activityBar.background": "#31363b",
         "sideBar.background": "#31363b",
@@ -179,18 +177,19 @@
         "editorHoverWidget.background": "#232629",
         "terminal.background": "#232629",
 
+        "input.border": "#eff0f118",
+        "dropdown.border": "#eff0f118",
+        "contrastBorder": "#eff0f118",
+        "titleBar.border": "#eff0f118",
         "editorGroup.border": "#eff0f118",
-        "sideBar.border": "#eff0f118",
-        "panel.border": "#eff0f118",
-        "statusBar.border": "#eff0f118",
         "editorHoverWidget.border": "#eff0f118",
 		"editorSuggestWidget.border": "#eff0f118",
         "peekView.border": "#eff0f118",
+        "tab.border": "#eff0f118",
 
         // Ignored/transparent
         "statusBarItem.remoteBackground": "#00000000",
         "sideBarSectionHeader.background": "#00000000",
-        "tab.border": "#00000000",
         "tab.inactiveBackground": "#00000000",
 		"activityBar.activeBorder": "#00000000",
     }
