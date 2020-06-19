@@ -36,25 +36,9 @@
             ]
         },
         {
-            "name": "Medium gray",
-            "settings": {
-                "foreground": "#7f8c8d"
-            },
-            "scope": [
-                "support.type.vendored.property-name.css",
-                "markup.quote",
-                "markup.quote markup.italic",
-                "markup.quote markup.italic punctuation.definition.italic.markdown",
-                "markup.quote markup.italic string",
-                "markup.quote markup.bold",
-                "markup.quote markup.bold punctuation.definition.bold.markdown",
-                "markup.quote markup.bold string"
-            ]
-        },
-        {
             "name": "Dark gray",
             "settings": {
-                "foreground": "#65686c"
+                "foreground": "#7f8c8d"
             },
             "scope": [
                 "comment",
@@ -74,7 +58,15 @@
                 "variable.other.jsdoc",
                 "storage.type.class.jsdoc",
                 "meta.other.type.phpdoc.php punctuation",
-                "punctuation.definition.comment"
+                "punctuation.definition.comment",
+                "support.type.vendored.property-name.css",
+                "markup.quote",
+                "markup.quote markup.italic",
+                "markup.quote markup.italic punctuation.definition.italic.markdown",
+                "markup.quote markup.italic string",
+                "markup.quote markup.bold",
+                "markup.quote markup.bold punctuation.definition.bold.markdown",
+                "markup.quote markup.bold string"
             ]
         }
     ],
@@ -106,8 +98,7 @@
         "inputOption.activeBackground": "#34495e",
         "list.inactiveSelectionBackground": "#34495e",
         "editorSuggestWidget.selectedBackground": "#34495e",
-
-        "editor.selectionBackground": "#34495ebb",
+        "editor.selectionBackground": "#1d99f366", // ??
 
         // Grays
         "badge.foreground": "#FFFFFF",
@@ -162,15 +153,14 @@
 
         "input.border": "#42464a",
         "dropdown.border": "#42464a",
-        "input.background": "#232629",
-        "dropdown.background": "#232629",
-
         "sideBar.background": "#2a2e32",
         "activityBar.background": "#2a2e32",
         "panel.background": "#2a2e32",
         "editorGroupHeader.tabsBackground": "#2a2e32",
 		"editor.lineHighlightBackground": "#2a2e32",
 
+        "input.background": "#232629",
+        "dropdown.background": "#232629",
         "editor.background": "#232629",
         "editorWidget.border": "#232629",
         "editorGroup.emptyBackground": "#232629",

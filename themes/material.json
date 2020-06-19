@@ -18,7 +18,6 @@
 
 		"button.background": "#009688",
         "extensionButton.prominentBackground": "#009688",
-		"selection.background": "#009688",
         "list.focusBackground": "#009688",
         "list.activeSelectionBackground": "#009688",
         "inputOption.activeBackground": "#009688",
@@ -34,6 +33,9 @@
         "titleBar.activeForeground": "#CFD8DC",
         "input.foreground": "#CFD8DC",
         "statusBarItem.remoteForeground": "#CFD8DC",
+
+        "selection.background": "#B0BEC5",
+        "editor.selectionBackground": "#B0BEC550",
 
         "editorLineNumber.activeForeground": "#CFD8DCBB",
         "activityBar.foreground": "#CFD8DCBB",
@@ -55,7 +57,6 @@
         "editor.selectionHighlightBorder": "#CFD8DC1B",
         "scrollbarSlider.activeBackground": "#CFD8DC1B",
         "scrollbarSlider.hoverBackground": "#CFD8DC1B",
-        "editor.selectionBackground": "#CFD8DC1B",
         "menu.selectionBackground": "#CFD8DC1B",
         "list.hoverBackground": "#CFD8DC1B",
         "list.inactiveSelectionBackground": "#CFD8DC1B",
